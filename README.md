@@ -1,23 +1,25 @@
-# 👋 Hi, I'm Rupesh Kharal
+# Hi, I'm Rupesh Kharal 👋
 
-### Computer Science Student | Developer 
+### 💻 BSc. CSIT Student | Full Stack Developer | AI & Cybersecurity Enthusiast
 
-Welcome to my portfolio repository!
+Welcome to my portfolio repository! I'm a passionate Computer Science student from Nepal who enjoys building innovative and impactful software solutions. I love exploring new technologies, solving real-world problems, and continuously improving my skills.
 
-I am a passionate BSc. CSIT student from Nepal who enjoys building innovative solutions through technology. My interests include Web Development, Artificial Intelligence, Cybersecurity, and Software Engineering.
+---
 
 ## 🚀 About Me
 
 - 🎓 BSc. CSIT Student
-- 💻 Full Stack Development Enthusiast
-- 🤖 Exploring Artificial Intelligence
-- 🔐 Interested in Cybersecurity & Digital Forensics
-- 🏆 Hackathon Participant
+- 💻 Full Stack Web Developer
+- 🤖 Interested in Artificial Intelligence
+- 🔐 Passionate about Cybersecurity
 - 🌱 Always learning new technologies
+- 🏆 Hackathon Participant & Tech Enthusiast
 
-## 🛠 Skills
+---
 
-### Programming Languages
+## 🛠️ Skills
+
+### Languages
 - C
 - C++
 - Java
@@ -25,47 +27,58 @@ I am a passionate BSc. CSIT student from Nepal who enjoys building innovative so
 - Python
 - SQL
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
+### Frontend
+- HTML5
+- CSS3
 - Bootstrap
 - Tailwind CSS
-- Node.js
+- React
 
-### Tools & Platforms
-- Git & GitHub
+### Backend
+- Node.js
+- Express.js
+- PHP
+
+### Database
+- MySQL
+- MongoDB
+- Firebase
+
+### Tools
+- Git
+- GitHub
 - VS Code
 - Figma
-- Canva
 - Postman
-
-## 🏅 Notable Achievement
-
-### Hack4Safety 2026
-Participated in Nepal's government-led hackathon organized by Nepal Police (Lumbini Province), where our team developed **SATYA – AI Evidence Integrity System**, an AI-powered solution for digital evidence verification.
-
-## 📂 Featured Projects
-
-### SATYA
-AI-powered forensic system for detecting manipulated digital evidence.
-
-### Quiz Sathi
-Interactive quiz platform with category selection, scoring, and engaging animations.
-
-### Personal Portfolio Website
-A responsive website showcasing my skills, projects, achievements, and journey in technology.
-
-## 🎯 Career Goal
-
-To leverage technology and innovation to solve real-world problems while continuously growing as a software developer and technology professional.
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/rupesh-kharal
-- GitHub: https://github.com/yourusername
-- Email: your-email@example.com
+- Canva
 
 ---
 
-> “Life is far more beautiful; it only depends on how long we can see its beauty.”
+## 🎯 Interests
+
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- 🔐 Cybersecurity
+- 📱 Mobile Application Development
+- ☁️ Cloud Computing
+- 🚀 Open Source Contributions
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:**  
+**rupeshkharel76@gmail.com**
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/rupeshkharal/
+
+---
+
+## 💭 Motto
+
+> *"Learning never stops. Every line of code is another step toward building something meaningful."*
+
+---
+
+⭐ **Thank you for visiting my portfolio! Feel free to explore my repositories and connect with me.**

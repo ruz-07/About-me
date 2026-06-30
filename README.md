@@ -9,9 +9,7 @@ Welcome to my portfolio repository! I'm a passionate Computer Science student fr
 ## 🚀 About Me
 
 - 🎓 BSc. CSIT Student
-- 💻 Full Stack Web Developer
 - 🤖 Interested in Artificial Intelligence
-- 🔐 Passionate about Cybersecurity
 - 🌱 Always learning new technologies
 - 🏆 Hackathon Participant & Tech Enthusiast
 
@@ -20,36 +18,19 @@ Welcome to my portfolio repository! I'm a passionate Computer Science student fr
 ## 🛠️ Skills
 
 ### Languages
-- C
-- C++
-- Java
-- JavaScript
+
 - Python
-- SQL
 
 ### Frontend
 - HTML5
 - CSS3
-- Bootstrap
 - Tailwind CSS
 - React
-
-### Backend
-- Node.js
-- Express.js
-- PHP
-
-### Database
-- MySQL
-- MongoDB
-- Firebase
 
 ### Tools
 - Git
 - GitHub
 - VS Code
-- Figma
-- Postman
 - Canva
 
 ---
